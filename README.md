@@ -22,3 +22,11 @@ Rumpelstilskin - Rumpelstiltskin fable<br />
 
 
 ## Inspiration
+Fortune Street https://www.mariowiki.com/Fortune_Street <br />
+
+## Research
+play some games and watch some videos, it'll be important to understand how the math is calculated in the game
+
+## Some Stuff to do First
+Create Shop Objects and the Board outline
+Create a way for a file to be read in and a board to be made from it
